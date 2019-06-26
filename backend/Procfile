@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT destinie_5256.wsgi:application
